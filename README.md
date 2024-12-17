@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I'm a Front-end web developer striving to becoming full stack 😄
+
+You can know more about me [here].(https://portfolio-gabrielcorpuz.netlify.app/)
+My work account. [LINK](https://github.com/FDC-gabriel)
+
 <!--
 **Leir-bg/Leir-bg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
