@@ -20,8 +20,8 @@ I'm Gabriel Corpuz, a friendly Front-end web developer with over 4 years of expe
 
 ### 📈 GitHub Stats:
 ![Stats](https://github-readme-stats.vercel.app/api?username=FDC-gabriel&theme=dark&show_icons=true&hide_border=true&count_private=true&hide_title=true)
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=FDC-gabriel&theme=dark&hide_border=true&hide_username=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Leir-bg&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=FDC-gabriel&theme=dark&hide_border=true&hide_username=true)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=FDC-gabriel&theme=onedark&hide_title=true)
 ![Contributions](https://ghchart.rshah.org/006400/FDC-gabriel)
 
