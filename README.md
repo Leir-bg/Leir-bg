@@ -26,7 +26,6 @@ I'm Gabriel Corpuz, a friendly Front-end web developer with over 4 years of expe
 
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=FDC-gabriel&theme=dark&hide_border=true&hide_username=true)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=FDC-gabriel&theme=onedark&hide_title=true)
-![Contributions](https://ghchart.rshah.org/006400/FDC-gabriel)
 
 </div>
 
