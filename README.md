@@ -21,8 +21,10 @@ I'm Gabriel Corpuz, a friendly Front-end web developer with over 4 years of expe
 ![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=white)
 
 ### 📈 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leir-bg&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Leir-bg&layout=compact&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=FDC-gabriel&theme=onedark&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FDC-gabriel&show_icons=true&theme=onedark&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Leir-bg&layout=compact&theme=onedark&hide_title=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FDC-gabriel&theme=dracula&hide_title=true)
 
 ### 🚀 Projects:
 - [Portfolio](https://github.com/Leir-bg/my-portfolio) - A simple portfolio of myself to showcase my skills and capabilities.
@@ -39,9 +41,11 @@ I'm Gabriel Corpuz, a friendly Front-end web developer with over 4 years of expe
 - Email: [gabrielcorpuz0914@gmail.com](gabrielcorpuz0914@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/gcorpuz091416](https://www.linkedin.com/in/gcorpuz091416)
 
-### You can know more about me [here](https://portfolio-gabrielcorpuz.netlify.app/).
+### Learn More About Me:
+You can find more details about my work and experience on my [portfolio website](https://portfolio-gabrielcorpuz.netlify.app/).
 
-### My work account. [LINK](https://github.com/FDC-gabriel)
+### My Professional GitHub Account:
+Check out my work-related projects on my [GitHub work account](https://github.com/FDC-gabriel).
 
 <!--
 **Leir-bg/Leir-bg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
