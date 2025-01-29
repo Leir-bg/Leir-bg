@@ -2,7 +2,7 @@
 
 I'm Gabriel Corpuz, a friendly Front-end web developer with over 4 years of experience in creating awesome and responsive websites. I'm currently on an exciting journey to become a full-stack developer, always eager to learn and grow. 😄
 
-![Profile Image](https://avatars.githubusercontent.com/u/Leir-bg?v=4)
+![Profile Image](https://avatars.githubusercontent.com/u/FDC-gabriel?v=4)
 
 ### 🛠️ Languages and Tools:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -24,29 +24,27 @@ I'm Gabriel Corpuz, a friendly Front-end web developer with over 4 years of expe
 ![Stats](https://github-readme-stats.vercel.app/api?username=FDC-gabriel&theme=dark&show_icons=true&hide_border=true&count_private=true&hide_title=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Leir-bg&theme=dark&show_icons=true&hide_border=true&layout=compact)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=FDC-gabriel&theme=onedark&hide_title=true)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FDC-gabriel&theme=github-dark&hide_title=true)
 ![Contributions](https://ghchart.rshah.org/006400/FDC-gabriel)
 
 ### 🚀 Projects:
+Here are some of the projects I've worked on throughout my development career:
 - [Portfolio](https://github.com/Leir-bg/my-portfolio) - A simple portfolio of myself to showcase my skills and capabilities.
 - [VSCode extension for NativeCamp FE devs](https://github.com/Leir-bg/fetool) - A tool I made to help NativeCamp front-end devs to quickly navigate through git branches, toggle test configs, and more.
-- [Go Dark Proweaver](https://github.com/Leir-bg/go-dark-proweaver) - A custom Wordpress plugin I made for Proweaver, Inc. websites to quickly switch color themes.
-- [Bulk Edit tool](https://github.com/Leir-bg/bulk-edit-content-tool) - Made to aid and accelerate the process of making textbooks for NativeCamp.
-- [Bulk Create Folder tool](https://github.com/Leir-bg/bulk-create-folder-tool) - Made to aid and accelerate the process of making textbooks for NativeCamp.
-- [Web Scraper](https://github.com/Leir-bg/webscraper) - Web scraping practice project.
 - [LaagTaCebu](https://github.com/Leir-bg/laagtacebu) - A travel app for Cebu City that focuses on streamlining the process of finding places to visit, travel planning, and more.
 - [Counter API](https://github.com/Leir-bg/counterapi) - A simple API I made to count visits to my portfolio.
 - [Mobile Game API (MLBB)](https://github.com/Leir-bg/MLBB-API) - An unofficial API for Mobile Legends: Bang Bang game for public use.
 
-### 📫 How to reach me:
-- Email: [gabrielcorpuz0914@gmail.com](gabrielcorpuz0914@gmail.com)
-- LinkedIn: [https://www.linkedin.com/in/gcorpuz091416](https://www.linkedin.com/in/gcorpuz091416)
+For more projects and details, visit my [portfolio website](https://portfolio-gabrielcorpuz.netlify.app/).
 
 ### Learn More About Me:
 You can find more details about my work and experience on my [portfolio website](https://portfolio-gabrielcorpuz.netlify.app/).
 
 ### My Professional GitHub Account:
 Check out my work-related projects on my [GitHub work account](https://github.com/FDC-gabriel).
+
+### 📫 How to reach me:
+- Email: [gabrielcorpuz0914@gmail.com](gabrielcorpuz0914@gmail.com)
+- LinkedIn: [https://www.linkedin.com/in/gcorpuz091416](https://www.linkedin.com/in/gcorpuz091416)
 
 <!--
 **Leir-bg/Leir-bg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
