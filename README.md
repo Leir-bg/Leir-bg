@@ -19,12 +19,12 @@ I'm Gabriel Corpuz, a friendly Front-end web developer with over 4 years of expe
 ![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=white)
 
 ### 📈 GitHub Stats:
-![Stats](https://github-readme-stats.vercel.app/api?username=FDC-gabriel&theme=dark&show_icons=true&hide_border=true&count_private=true&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Leir-bg&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=FDC-gabriel&theme=darkhub&show_icons=true&hide_border=true&count_private=true&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Leir-bg&theme=darkhub&show_icons=true&hide_border=true&layout=compact)
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=FDC-gabriel&theme=dark&hide_border=true&hide_username=true)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=FDC-gabriel&theme=darkhub&hide_border=true&hide_username=true)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=FDC-gabriel&theme=darkhub&hide_title=true)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FDC-gabriel&theme=github-dark&hide_title=true)
 
