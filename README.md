@@ -22,11 +22,9 @@ I'm Gabriel Corpuz, a friendly Front-end web developer with over 4 years of expe
 
 ### 📈 GitHub Stats:
 ![Stats](https://github-readme-stats.vercel.app/api?username=FDC-gabriel&theme=dark&show_icons=true&hide_border=true&count_private=true&hide_title=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=FDC-gabriel&theme=dark&hide_border=true)
-![Streak](https://streak-stats.demolab.com?user=FDC-gabriel&theme=dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Leir-bg&theme=dark&show_icons=true&hide_border=true&layout=compact)
-![Trophies](https://github-profile-trophy.vercel.app/?username=FDC-gabriel&theme=dark&hide_title=true)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FDC-gabriel&theme=dark&hide_title=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=FDC-gabriel&theme=onedark&hide_title=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FDC-gabriel&theme=github-dark&hide_title=true)
 
 ### 🚀 Projects:
 - [Portfolio](https://github.com/Leir-bg/my-portfolio) - A simple portfolio of myself to showcase my skills and capabilities.
