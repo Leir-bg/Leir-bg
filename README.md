@@ -2,7 +2,7 @@
 
 I'm Gabriel Corpuz, a friendly Front-end web developer with over 4 years of experience in creating awesome and responsive websites. I'm currently on an exciting journey to become a full-stack developer, always eager to learn and grow. 😄
 
-![Profile Image](https://avatars.githubusercontent.com/u/FDC-gabriel?v=4)
+![Profile Image](https://avatars.githubusercontent.com/u/Leir-bg?v=4)
 
 ### 🛠️ Languages and Tools:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -21,8 +21,8 @@ I'm Gabriel Corpuz, a friendly Front-end web developer with over 4 years of expe
 ![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=white)
 
 ### 📈 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FDC-gabriel&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FDC-gabriel&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leir-bg&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Leir-bg&layout=compact&theme=radical)
 
 ### 🚀 Projects:
 - [Portfolio](https://github.com/Leir-bg/my-portfolio) - A simple portfolio of myself to showcase my skills and capabilities.
