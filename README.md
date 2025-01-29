@@ -21,7 +21,7 @@ I'm Gabriel Corpuz, a friendly Front-end web developer with over 4 years of expe
 ![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=white)
 
 ### 📈 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FDC-gabriel&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leir-bg&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_title=true)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=FDC-gabriel&theme=onedark&hide_title=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Leir-bg&layout=compact&theme=onedark&hide_title=true)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FDC-gabriel&theme=dracula&hide_title=true)
