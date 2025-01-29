@@ -16,6 +16,7 @@ I'm Gabriel Corpuz, a friendly Front-end web developer with over 4 years of expe
 ![CakePHP](https://img.shields.io/badge/-CakePHP-D33C43?style=flat&logo=cakephp&logoColor=white)
 ![Blade](https://img.shields.io/badge/-Blade-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
