@@ -25,7 +25,7 @@ I'm Gabriel Corpuz, a friendly Front-end web developer with over 4 years of expe
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Leir-bg&theme=dark&show_icons=true&hide_border=true&layout=compact)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=FDC-gabriel&theme=onedark&hide_title=true)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FDC-gabriel&theme=github-dark&hide_title=true)
-![Contributions](https://ghchart.rshah.org/00FF00/FDC-gabriel)
+![Contributions](https://ghchart.rshah.org/006400/FDC-gabriel)
 
 ### 🚀 Projects:
 - [Portfolio](https://github.com/Leir-bg/my-portfolio) - A simple portfolio of myself to showcase my skills and capabilities.
