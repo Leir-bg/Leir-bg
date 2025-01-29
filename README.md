@@ -21,11 +21,11 @@ I'm Gabriel Corpuz, a friendly Front-end web developer with over 4 years of expe
 ![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=white)
 
 ### 📈 GitHub Stats:
-![FDC-gabriel's Stats](https://github-readme-stats.vercel.app/api?username=FDC-gabriel&theme=dark&show_icons=true&hide_border=true&count_private=true&hide_title=true)
-![FDC-gabriel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=FDC-gabriel&theme=dark&hide_border=true)
-![FDC-gabriel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Leir-bg&theme=dark&show_icons=true&hide_border=true&layout=compact)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=FDC-gabriel&theme=dark&hide_title=true)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FDC-gabriel&theme=dark&hide_title=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=FDC-gabriel&theme=dark&show_icons=true&hide_border=true&count_private=true&hide_title=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=FDC-gabriel&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Leir-bg&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![Trophies](https://github-profile-trophy.vercel.app/?username=FDC-gabriel&theme=dark&hide_title=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FDC-gabriel&theme=dark&hide_title=true)
 
 ### 🚀 Projects:
 - [Portfolio](https://github.com/Leir-bg/my-portfolio) - A simple portfolio of myself to showcase my skills and capabilities.
