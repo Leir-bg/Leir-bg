@@ -8,7 +8,6 @@ I'm Gabriel Corpuz, a friendly Front-end web developer with over 4 years of expe
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 ![Pug](https://img.shields.io/badge/-Pug-A86454?style=flat&logo=pug&logoColor=white)
@@ -17,6 +16,9 @@ I'm Gabriel Corpuz, a friendly Front-end web developer with over 4 years of expe
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![CakePHP](https://img.shields.io/badge/-CakePHP-D33C43?style=flat&logo=cakephp&logoColor=white)
+![Blade](https://img.shields.io/badge/-Blade-FF2D20?style=flat&logo=laravel&logoColor=white)
 
 ### 📈 GitHub Stats:
 ![Stats](https://github-readme-stats.vercel.app/api?username=FDC-gabriel&theme=dark&show_icons=true&hide_border=true&count_private=true&hide_title=true)
