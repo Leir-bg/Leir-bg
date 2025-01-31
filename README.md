@@ -26,6 +26,10 @@ I'm Gabriel Corpuz, a friendly Front-end web developer with over 4 years of expe
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Xara](https://img.shields.io/badge/-Xara-FF4500?style=flat&logo=xara&logoColor=white)
 
+#### 🌱 Currently Learning:
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+
 ### 📈 GitHub Stats:
 ![Stats](https://github-readme-stats.vercel.app/api?username=FDC-gabriel&theme=dark&show_icons=true&hide_border=true&count_private=true&hide_title=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Leir-bg&theme=dark&show_icons=true&hide_border=true&layout=compact)
