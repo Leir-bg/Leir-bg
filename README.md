@@ -21,6 +21,8 @@ I'm Gabriel Corpuz, a friendly Front-end web developer with over 4 years of expe
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Xara](https://img.shields.io/badge/-Xara-FF4500?style=flat&logo=xara&logoColor=white)
 
 ### 📈 GitHub Stats:
 ![Stats](https://github-readme-stats.vercel.app/api?username=FDC-gabriel&theme=dark&show_icons=true&hide_border=true&count_private=true&hide_title=true)
