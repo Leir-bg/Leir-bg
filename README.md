@@ -37,7 +37,7 @@ I'm Gabriel Corpuz, a friendly Front-end web developer with over 4 years of expe
 ### 🚀 Projects:
 Here are some of the projects I've worked on throughout my development career:
 - [Portfolio](https://github.com/Leir-bg/my-portfolio) - A simple portfolio of myself to showcase my skills and capabilities.
-- VSCode extension for NativeCamp FE devs - A tool I made to help NativeCamp front-end devs to quickly navigate through git branches, toggle test configs, and more.
+- [VSCode extension for NativeCamp FE devs](https://github.com/Leir-bg/fetool) - A tool I made to help NativeCamp front-end devs to quickly navigate through git branches, toggle test configs, and more.
 - [LaagTaCebu](https://github.com/Leir-bg/laagtacebu) - A travel app for Cebu City that focuses on streamlining the process of finding places to visit, travel planning, and more.
 - [Counter API](https://github.com/Leir-bg/counterapi) - A simple API I made to count visits to my portfolio.
 - [Mobile Game API (MLBB)](https://github.com/Leir-bg/MLBB-API) - An unofficial API for Mobile Legends: Bang Bang game for public use.
