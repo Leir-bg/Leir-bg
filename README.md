@@ -12,6 +12,7 @@ I'm Gabriel Corpuz, a friendly Front-end web developer with over 4 years of expe
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 ![Pug](https://img.shields.io/badge/-Pug-A86454?style=flat&logo=pug&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![CakePHP](https://img.shields.io/badge/-CakePHP-D33C43?style=flat&logo=cakephp&logoColor=white)
 ![Blade](https://img.shields.io/badge/-Blade-FF2D20?style=flat&logo=laravel&logoColor=white)
