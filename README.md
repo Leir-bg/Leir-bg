@@ -29,8 +29,8 @@ I'm Gabriel Corpuz, a friendly Front-end web developer with over 4 years of expe
 ![Xara](https://img.shields.io/badge/-Xara-FF4500?style=flat&logo=xara&logoColor=white)
 
 #### 🌱 Currently Learning:
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat&logo=nuxt.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Nuxtjs](https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat&logo=nuxtjs&logoColor=white)
+![Nextjs](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ### 📈 GitHub Stats:
