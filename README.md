@@ -8,9 +8,10 @@ I'm Gabriel Corpuz, a friendly Front-end web developer with over 4 years of expe
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![AngularJS](https://img.shields.io/badge/-AngularJS-E23237?style=flat&logo=angularjs&logoColor=white)
+![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![Nodejs](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Expressjs](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 ![Pug](https://img.shields.io/badge/-Pug-A86454?style=flat&logo=pug&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
@@ -28,7 +29,8 @@ I'm Gabriel Corpuz, a friendly Front-end web developer with over 4 years of expe
 ![Xara](https://img.shields.io/badge/-Xara-FF4500?style=flat&logo=xara&logoColor=white)
 
 #### 🌱 Currently Learning:
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Vue + Nuxtjs](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React + Nextjs](https://img.shields.io/badge/-React%20+%20Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ### 📈 GitHub Stats:
