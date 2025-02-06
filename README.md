@@ -1,3 +1,5 @@
+<link ref="stylesheet" type="text/css" href="./styles.css">
+
 ## Hi there 👋
 
 I'm Gabriel Corpuz, a friendly Front-end web developer with over 4 years of experience in creating awesome and responsive websites. I'm currently on an exciting journey to become a full-stack developer, always eager to learn and grow. 😄
